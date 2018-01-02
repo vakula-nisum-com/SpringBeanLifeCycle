@@ -1,3 +1,3 @@
 adding changes to the file
 adding changes to file which was existed in staging
-adding content to the file which was in testing branch
+adding content to the file which was in testing branch--making conflicts
